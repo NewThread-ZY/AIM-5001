@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Python for Data Analysis",
+		"authors":"Wes McKinney",
+		"number of pages":"523pages",
+		"ISBN":"ISBN: 978-1491957660"
+	},
+	{
+		"title":"Feature Engineering for Machine Learning",
+		"authors":"Alice Zheng and Amanda Casar",
+		"number of pages":"201pages",
+		"ISBN":"ISBN: 978-1491953242"
+	},
+	{
+		"title":"Learning PostgreSQL 11 Third Edition",
+		"authors":"Salahaldin Juba & Andrey Volkov",
+		"number of pages":"509pages",
+		"ISBN":"ISBN: 978-1789535464"
+	}
+
+]
